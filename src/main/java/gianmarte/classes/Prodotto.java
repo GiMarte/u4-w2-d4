@@ -1,4 +1,4 @@
-package Classes;
+package gianmarte.classes;
 
 public class Prodotto {
     protected long id;
